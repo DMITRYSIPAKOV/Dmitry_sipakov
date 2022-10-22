@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    border-spacing: 10px 10px;
+
+}
+td{
+    border: 2px dotted rgb(58, 9, 114);
+}
+th{
+    background-color: rgb(60, 25, 189);
+    border: 2px dotted black;
+}
+tr:hover{
+    background-color: aqua;
+
+}
+table caption{
+    text-transform: uppercase;
+}

@@ -1,0 +1,21 @@
+
+h1{
+    font-weight: bold;
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(13, 65, 65);
+    border-radius: 0px 30px 0px 30px;
+    padding: 10px
+
+};
+.a span{
+    visibility: hidden;
+    position: absolute;
+    left: 160px;
+}
+.a:hover span{
+    visibility: visible;
+}
+

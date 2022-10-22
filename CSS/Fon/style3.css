@@ -1,0 +1,26 @@
+.menu{
+    height: 504px;
+    width: 15em;
+    background: blue;
+    padding-top: 0.4em;
+    float: left;
+}
+.st1{
+    height: 250px;
+    background-color: blueviolet;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+.st2{
+    height: 250px;
+    background: gray;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+.footer{
+    background: rebeccapurple;
+    clear: both;
+}
+.img{
+    float: right;
+}
